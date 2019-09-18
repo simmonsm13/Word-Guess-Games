@@ -1,0 +1,10 @@
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background: url("../images/football-field-background.jpg");
+  text-align: center;
+}
+
+#teamPic {
+  width: 100%;
+  margin: 30px 0 0 0;
+}

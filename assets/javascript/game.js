@@ -43,7 +43,7 @@ var computerChoice = [
   "Newton",
   "Brady",
   "Barkley",
-  "Elliot",
+  "Elliott",
   "McCaffrey",
   "Kamara",
   "Beckham",

@@ -85,10 +85,10 @@ var openingHtml =
   "</h1></h4>CURRENT WORD</h4></div></div>" +
   "<div class='row'>" +
   "<div class='col-sm-2 offset-sm-5'>" +
-  "<img id='teamPic' src='assets/images/NFL.jpeg'>" +
+  "<img id='teamPic' src='assets/images/NFL.png'>" +
   "</div>" +
   "</div>";
-finalImage = "<img id='teamPic' src='assets/images/NFL.jpeg'>";
+finalImage = "<img id='teamPic' src='assets/images/NFL.png'>";
 // --Print to the screen the first lines and blank word.
 document.querySelector("#game").innerHTML = topHtml + openingHtml;
 

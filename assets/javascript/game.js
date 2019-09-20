@@ -51,7 +51,7 @@ var computerChoice = [
   "Brown",
   "Hines"
 ];
-
+// some bs
 // --Randomly chooses a choice from the word array computerChoices.
 computerWord =
   computerChoice[Math.floor(Math.random() * computerChoice.length)];

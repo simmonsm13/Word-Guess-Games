@@ -199,7 +199,7 @@ document.onkeyup = function(event) {
       finalMessage = computerWord + ": YOU WIN!!!!!";
       // --Show team logo.
       finalImage =
-        "<img id='teamPic' src='assets/images/" + computerWord + ".jpg'>";
+        "<img id='teamPic' src='assets/images/" + computerWord + ".png'>";
       // --Add one to number of wins.
       wins++;
       // --Set indicator for game over, to be used later.
@@ -215,7 +215,7 @@ document.onkeyup = function(event) {
       finalMessage = computerWord + ": YOU LOSE!";
       // --Show team logo.
       finalImage =
-        "<img id='teamPic' src='assets/images/" + computerWord + ".jpg'>";
+        "<img id='teamPic' src='assets/images/" + computerWord + ".png'>";
       // --Add one to number of loses.
       losses++;
       // --Set indicator for game over, to be used later.
